@@ -40,12 +40,12 @@
           "poor": "Fails to address consequences of ethics."
         }
       },
-      {
+    {
         "criterion_id": "c4",
         "name": "Structure and Academic Style",
-        "description": "Presents ideas logically with a formal academic tone and appropriate referencing.",
+        "description": "Presents ideas logically with a formal academic tone.",
         "performance_descriptors": {
-          "excellent": "Highly coherent, well-referenced essay with formal tone throughout.",
+          "excellent": "Highly coherent essay with clear organization and consistent formal tone.",
           "good": "Mostly clear structure and tone; minor inconsistencies.",
           "average": "Some structure; tone inconsistently academic.",
           "needs_improvement": "Unclear flow or casual language.",
